@@ -55,6 +55,15 @@
 // });
 // console.log(names);
 
+const numbers = [3, 7, 10, 21, 5];
+Tasks:
+
+Print every number (use for)
+
+Print only even numbers (use for-of)
+
+Find sum of all numbers
+
 
 
 
